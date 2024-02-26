@@ -1,0 +1,680 @@
+20240224 18:58:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java56 - current browser closed
+20240224 19:12:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 19:12:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 19:12:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 19:12:52 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 19:12:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 19:15:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 19:15:10 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 19:15:11 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 19:15:12 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 19:15:12 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 19:15:12 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:47:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:47:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:47:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:47:27 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:47:27 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 22:47:27 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:47:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:47:32 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:47:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:53:42 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:53:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:53:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:53:45 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:53:45 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 22:53:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:53:49 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:53:50 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:53:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:53:57 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:53:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:58:08 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:58:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:58:09 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:58:09 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:58:09 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 22:58:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:58:13 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:58:14 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:58:15 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:58:20 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:58:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:59:15 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:59:17 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:59:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:59:18 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:59:18 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 22:59:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 22:59:22 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 22:59:23 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 22:59:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 22:59:30 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 22:59:30 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 23:06:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 23:06:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:06:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:06:09 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:06:09 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:06:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 23:06:13 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 23:06:14 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:06:15 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:06:20 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:06:20 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 23:06:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java55 - https://login.salesforce.com/is entered
+20240224 23:06:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:06:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:06:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java60 - current browser closed
+20240224 23:22:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:22:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:22:27 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:22:27 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:22:27 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:22:28 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:22:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:22:33 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:22:34 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:22:40 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:22:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:22:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:22:45 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:22:46 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:22:46 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:22:51 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:22:51 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:22:52 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:22:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:26:54 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:26:56 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:26:56 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:26:56 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:26:56 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:26:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:27:00 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:27:01 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:27:02 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:27:07 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:27:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:27:11 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:27:12 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:27:13 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:27:13 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:27:15 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:27:18 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:27:18 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:27:19 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:29:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:29:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:29:19 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:29:19 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:29:20 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:29:20 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:29:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:29:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:29:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:29:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:29:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:29:35 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:29:36 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:29:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:29:37 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:29:42 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:29:42 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:29:42 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:29:43 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:43:01 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:43:03 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:43:03 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:43:04 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:43:04 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:43:04 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:43:08 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:43:09 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:43:10 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:43:15 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:43:15 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:43:19 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:43:20 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:43:21 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:43:21 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:43:25 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:43:26 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:43:26 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:43:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:47:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:47:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:47:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:47:19 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:47:19 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:47:20 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:47:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:47:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:47:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:47:28 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:47:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:47:35 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:47:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:47:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:47:37 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:47:42 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:47:42 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:47:43 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:47:46 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:49:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:49:40 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:49:40 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:49:40 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:49:40 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:49:41 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:49:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:49:46 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:49:47 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:49:52 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:49:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:49:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:49:58 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:49:58 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:49:58 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:50:03 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:50:03 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:50:04 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:50:10 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:50:42 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:50:43 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:50:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:50:44 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:50:44 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:50:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:50:49 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:50:50 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:50:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:50:53 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:50:55 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:50:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:51:01 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:51:01 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:51:01 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:51:06 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:51:06 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:51:06 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:51:13 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240224 23:51:13 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:52:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:52:42 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:52:42 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:52:43 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:52:43 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240224 23:52:43 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:52:48 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:52:48 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:52:50 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:52:56 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:52:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240224 23:53:00 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240224 23:53:01 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240224 23:53:03 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240224 23:53:03 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240224 23:53:08 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240224 23:53:08 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240224 23:53:10 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240224 23:53:13 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java167 - Login | Salesforce
+20240224 23:53:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java172 - priyanka@house.com
+20240224 23:53:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java174 - Username is populated
+20240224 23:53:16 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240224 23:53:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java177 - CheckBox rememberme is checked
+20240224 23:53:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240225 00:14:12 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240225 00:14:13 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:14:14 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:14:14 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:14:14 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 00:14:14 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240225 00:14:19 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240225 00:14:21 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:14:21 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:14:26 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:14:27 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240225 00:14:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240225 00:14:32 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:14:33 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:14:33 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 00:14:39 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:14:39 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 00:14:41 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 00:14:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java167 - Login | Salesforce
+20240225 00:14:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java172 - priyanka@house.com
+20240225 00:14:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java174 - Username is populated
+20240225 00:14:47 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 00:14:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java177 - CheckBox rememberme is checked
+20240225 00:14:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240225 00:14:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java57 - https://login.salesforce.com/is entered
+20240225 00:14:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java62 - current browser closed
+20240225 00:52:20 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:52:21 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:52:21 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:52:21 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:52:22 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 00:52:22 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:52:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:52:27 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:52:27 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:52:32 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:52:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:52:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:52:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:52:39 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:52:39 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 00:52:41 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:52:44 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 00:52:44 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 00:52:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 00:52:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 00:52:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 00:52:50 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 00:52:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 00:52:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:52:55 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:52:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:59:06 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:59:07 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:59:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:59:08 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:59:08 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 00:59:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:59:14 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:59:14 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:59:15 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:59:18 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:59:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:59:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:59:27 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 00:59:28 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 00:59:28 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 00:59:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 00:59:34 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 00:59:34 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 00:59:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 00:59:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 00:59:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 00:59:40 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 00:59:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 00:59:41 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 00:59:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 00:59:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:01:03 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:01:05 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:01:06 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:01:06 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:01:06 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:01:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:01:11 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:01:12 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:01:13 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:01:16 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:01:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:01:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:01:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:01:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:01:25 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:01:29 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:01:31 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:01:32 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:01:35 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:01:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:01:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:01:38 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:01:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:01:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:01:43 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:01:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:06:41 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:06:43 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:06:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:06:44 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:06:44 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:06:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:06:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:06:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:06:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:06:57 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:06:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:07:02 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:07:03 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:07:04 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:07:04 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:07:10 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:07:10 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:07:11 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:07:14 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:07:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:07:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:07:17 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:07:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:07:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:07:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:07:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:11:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:11:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:11:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:11:19 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:11:19 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:11:19 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:11:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:11:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:11:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:11:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:11:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:11:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:11:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:11:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:11:39 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:11:43 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:11:44 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:11:44 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:11:47 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:11:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:11:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:11:50 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:11:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:11:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:11:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:11:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:17:28 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:17:30 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:17:30 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:17:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:17:31 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:17:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:17:36 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:17:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:17:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:17:42 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:17:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:17:49 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:17:52 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:17:52 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:17:52 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:17:57 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:18:02 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:18:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:23:35 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:23:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:23:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:23:38 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:23:38 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:23:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:23:43 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:23:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:23:45 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:23:50 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:23:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:23:55 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:23:56 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:23:57 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:23:57 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:24:03 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:24:03 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:24:03 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:24:06 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:24:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:24:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:24:09 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:24:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:24:10 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:24:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:24:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:25:30 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:25:31 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:25:31 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:25:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:25:32 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:25:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:25:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:25:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:25:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:25:44 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:25:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:25:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:25:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:25:51 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:25:51 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:25:55 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:25:57 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:25:58 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:26:01 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:26:04 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:26:04 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:26:04 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:26:04 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:26:04 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:26:10 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:26:15 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:26:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:26:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:26:22 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:26:28 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:26:28 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:28:36 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:28:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:28:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:28:38 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:28:39 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:28:39 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:28:44 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:28:45 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:28:45 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:28:50 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:28:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:28:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:28:57 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:28:58 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:28:58 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:29:03 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:29:03 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:29:03 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:29:06 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:29:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:29:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:29:09 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:29:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:29:10 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:29:15 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:29:21 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:29:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:29:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:29:28 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:29:34 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:29:34 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 01:29:34 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:36:46 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:36:47 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:36:48 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:36:48 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:36:48 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:36:49 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:36:54 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:36:55 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:36:55 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:37:01 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:37:01 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:37:06 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:37:07 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:37:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:37:08 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:37:14 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:37:14 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:37:15 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:37:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:37:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:37:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:37:21 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:37:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:37:21 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:37:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:37:32 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:37:35 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:37:35 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:37:39 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:37:45 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:37:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 01:37:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:37:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:37:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:45:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:45:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:45:18 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:45:18 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:45:19 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:45:19 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:45:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:45:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:45:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:45:32 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:45:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:45:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:45:39 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:45:39 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:45:40 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:45:45 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:45:45 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:45:46 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:45:49 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:45:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:45:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:45:52 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:45:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:45:52 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:45:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:46:04 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:46:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:46:07 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:46:11 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:46:17 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:46:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 01:46:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:46:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:46:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:46:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:46:25 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:46:25 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:46:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java252 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240225 01:46:25 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:50:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:50:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:50:37 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:50:38 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:50:38 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:50:38 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:50:43 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:50:44 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:50:45 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:50:48 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:50:50 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:50:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:50:57 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:50:57 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:50:57 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:51:03 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:51:03 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:51:03 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:51:06 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:51:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:51:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:51:09 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:51:09 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:51:10 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:51:16 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:51:21 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:51:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:51:24 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:51:28 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:51:34 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:51:34 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 01:51:34 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:51:40 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:51:41 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:51:41 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:51:42 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:51:42 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:51:42 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java252 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240225 01:51:42 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:54:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:54:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:54:26 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:54:26 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:54:26 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:54:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:54:32 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:54:33 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:54:33 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:54:38 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:54:39 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:54:45 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:54:47 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:54:47 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:54:47 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 01:54:52 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:54:52 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 01:54:53 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 01:54:56 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 01:54:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 01:54:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 01:54:59 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 01:54:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 01:54:59 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:55:05 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:55:10 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 01:55:13 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 01:55:14 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:55:17 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 01:55:23 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 01:55:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 01:55:23 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 01:55:29 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 01:55:30 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 01:55:31 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 01:55:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 01:55:31 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 01:55:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java252 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240225 01:55:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 02:02:14 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 02:02:16 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 02:02:17 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 02:02:18 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 02:02:18 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 02:02:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 02:02:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 02:02:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 02:02:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 02:02:31 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 02:02:31 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 02:02:37 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 02:02:38 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 02:02:39 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 02:02:39 INFO  [main] base.BasePage BasePage.java76 - RememberMeelement is cheked
+20240225 02:02:44 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 02:02:44 INFO  [main] base.BasePage BasePage.java63 - Arrow buttonelement is clicked
+20240225 02:02:45 INFO  [main] base.BasePage BasePage.java63 - LogOut linkelement is clicked
+20240225 02:02:48 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java176 - Login | Salesforce
+20240225 02:02:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java181 - priyanka@house.com
+20240225 02:02:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java183 - Username is populated
+20240225 02:02:51 INFO  [main] base.BasePage BasePage.java88 - RememberMeelement is cheked
+20240225 02:02:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java186 - CheckBox rememberme is checked
+20240225 02:02:51 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 02:02:58 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 02:03:04 INFO  [main] base.BasePage BasePage.java63 - Forgot Your Password?element is clicked
+20240225 02:03:07 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java206 - Forgot Your Password Page
+20240225 02:03:08 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 02:03:11 INFO  [main] base.BasePage BasePage.java63 - Continue buttonelement is clicked
+20240225 02:03:17 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Email Sent Message
+20240225 02:03:17 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java234 - Password reset message page is displayed.
+20240225 02:03:18 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
+20240225 02:03:24 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java61 - https://login.salesforce.com/is entered
+20240225 02:03:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in Username textbox
+20240225 02:03:25 INFO  [main] base.BasePage BasePage.java43 - username data is entered in password textbox
+20240225 02:03:26 INFO  [main] base.BasePage BasePage.java63 - login buttonelement is clicked
+20240225 02:03:26 INFO  [main] base.BasePage BasePage.java105 - text is extracted from Error Message
+20240225 02:03:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java252 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240225 02:03:26 INFO  [main] steps.SFDCLoginStepDef SFDCLoginStepDef.java66 - current browser closed
